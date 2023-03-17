@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="302.31354"
+   viewBox="0 0 1000 302.31354"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Love, Death &amp; Robots symbol.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="533"
+     inkscape:cy="122"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1624"
+       originx="16.736874"
+       originy="-188.21875" />
+  </sodipodi:namedview>
+  <g
+     id="g3940"
+     inkscape:label="Symbol">
+    <path
+       id="path3345"
+       style="opacity:1;fill:#000000;stroke-width:19.0939"
+       d="M 717.90044,10.936176 V 265.84604 c 0,17.23724 14.1342,31.33353 31.42317,31.33353 H 968.57683 C 985.8658,297.17957 1000,283.08328 1000,265.84604 V 42.265631 c 0,-17.237609 -14.1342,-31.329455 -31.42317,-31.329455 z m 72.64165,61.37134 a 32.042767,32.042767 0 0 1 32.0425,32.042504 32.042767,32.042767 0 0 1 -32.0425,32.04251 32.042767,32.042767 0 0 1 -32.04658,-32.04251 32.042767,32.042767 0 0 1 32.04658,-32.042504 z m 134.66081,0 a 32.042767,32.042767 0 0 1 32.04252,32.042504 32.042767,32.042767 0 0 1 -32.04252,32.04251 32.042767,32.042767 0 0 1 -32.04249,-32.04251 32.042767,32.042767 0 0 1 32.04249,-32.042504 z"
+       inkscape:label="Robots" />
+    <path
+       style="opacity:1;fill:#000000;stroke-width:19.0939"
+       d="m 414.49198,0 -61.72176,61.607667 88.16986,88.336923 -69.30048,69.43086 c -16.92944,16.96127 -16.90424,44.24643 0.057,61.17576 16.96138,16.92931 44.24643,16.90422 61.17577,-0.057 l 69.1864,-69.31679 89.04589,89.21704 61.72583,-61.60767 -89.16407,-89.3352 68.28592,-68.416287 C 648.88148,64.073851 648.8565,36.788922 631.89534,19.859589 614.93398,2.9302771 587.64872,2.9551653 570.71957,19.916542 l -68.17181,68.302215 z"
+       id="path829"
+       inkscape:label="Death" />
+    <path
+       style="opacity:1;fill:#000000;stroke-width:19.0939"
+       d="M 73.021707,4.5513058 C 17.817232,4.5513058 -31.83932,80.94331 25.520241,146.31414 L 162.40172,302.31355 299.2832,146.31414 C 356.64274,80.94331 306.98617,4.5513058 251.78171,4.5513058 c -55.20445,0 -74.75099,28.0254412 -89.37999,46.3116922 C 147.77272,32.576747 128.22618,4.5513058 73.021707,4.5513058 Z"
+       id="path3343"
+       inkscape:label="Love" />
+  </g>
+</svg>
